@@ -21,5 +21,4 @@ public class quiz5_7 {
 		else 
 			System.out.println("F");
 	}
-
 }

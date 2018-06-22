@@ -1,6 +1,5 @@
 import java.util.*;
 public class quiz5_11 {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -15,5 +14,4 @@ public class quiz5_11 {
 		}
 		System.out.println(" = " + mul);
 	}
-
 }

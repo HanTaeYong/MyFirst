@@ -1,6 +1,5 @@
 import java.util.*;
 public class quiz5_8 {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -37,5 +36,4 @@ public class quiz5_8 {
 		
 		System.out.println("гу = " + (a+b+c+d+e));;
 	}
-
 }

@@ -1,6 +1,5 @@
 import java.util.*;
 public class quiz5_10 {
-
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		
@@ -18,5 +17,4 @@ public class quiz5_10 {
 		 		System.out.print(" + "+i);
 		}
 	}
-
 }
