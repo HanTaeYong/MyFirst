@@ -5,15 +5,15 @@ public class quiz5_2 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.println("Á¤¼ö °¹¼ö : ");
-		int tc = sc.nextInt();
+		int cnt = sc.nextInt();
 		
 		double sum = 0;
-		for(int i=1; i<=tc; i++) {
+		for(int i=1; i<=cnt; i++) {
 			System.out.println(i + "¹øÂ° Á¤¼ö ÀÔ·Â : ");
 			int num=sc.nextInt();
 			sum += num;
 		}
-		System.out.println("Æò±Õ : " + sum/tc);
+		System.out.println("Æò±Õ : " + sum/cnt);
 	}
 
 }
